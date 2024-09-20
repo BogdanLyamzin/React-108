@@ -1,0 +1,25 @@
+.btn {
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    color: #fff;
+}
+
+.btn.success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn.outline {
+    color: #007bff;
+    background-color: transparent;
+    border-color: #007bff;
+}
+
+.btn.success.outline {
+    color: #28a745;;
+    background-color: transparent;
+    border-color: #28a745;
+}
